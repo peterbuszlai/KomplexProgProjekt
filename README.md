@@ -1,16 +1,16 @@
-#Labirintus
+# Labirintus
 
-##Programterv
+## Programterv
 Ez a projekt a klasszikus labirintus játék megvalósítása webes környezetben.
 
-##Felhasznált technológiák
+## Felhasznált technológiák
 - HTML
 - CSS
 - JavaScript(Vanilla)
 
-##Telepítés
+## Telepítés
 A program használatához csak egy böngészőre van szükség.
 
 ```javascript
-
+alert('alma')
 ```
